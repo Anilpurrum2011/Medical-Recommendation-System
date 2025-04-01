@@ -57,17 +57,6 @@ Ensure you have the following installed:
 - **POST /predict** - Accepts user health data and returns medical recommendations.
 - **GET /health-check** - Returns the status of the application.
 
-## Folder Structure
-```
-Medical-Recommendation-System/
-│── app.py            # Main application file
-│── model.pkl         # Trained machine learning model
-│── static/           # Static assets (CSS, JS)
-│── templates/        # HTML templates
-│── requirements.txt  # Dependencies
-│── README.md         # Documentation
-```
-
 ## Future Enhancements
 - Improve recommendation accuracy with deep learning models
 - Integrate user profiles for better personalization
